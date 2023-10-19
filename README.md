@@ -1,4 +1,4 @@
-# Mocha Api Test for Punk Api
+# Mocha Api Test for flip test
 
 ### Install
 
